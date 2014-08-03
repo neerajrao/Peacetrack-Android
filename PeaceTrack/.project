@@ -3,6 +3,7 @@
 	<name>PeaceTrack</name>
 	<comment></comment>
 	<projects>
+		<project>PeaceTrack Appcompat v7</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
